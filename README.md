@@ -70,7 +70,7 @@ The Nest.js server will start and expose the API endpoints.
 
 ### API
 
-The API endpoints for CRUD operations on the 'user' table can be accessed at `http://localhost:3000/api/users`.
+The API endpoints for CRUD operations on the 'user' table can be accessed at `http://localhost:5000/users/all`.
 
 ## Contributing
 
