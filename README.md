@@ -2,7 +2,7 @@ Certainly! Here's a README.md documentation for your CRUD app:
 
 # CRUD App Documentation
 
-![Alt TEXt](https://github.com/mike489/User-curd-/blob/main/front-end/src/assets/Screenshot%20user.png?raw=true)
+![App Screenshot]https://github.com/mike489/User-curd-/blob/adff267a64e945a07e7bc425c6176db21a8692f8/front-end/src/assets/Screenshot%20user.png
 
 This is a CRUD (Create, Read, Update, Delete) application that manages a table called 'user,' which includes fields for Name, Email, Password, and Phone Number. The app is structured as a monorepo and utilizes a variety of technologies to facilitate these operations.
 
@@ -20,6 +20,7 @@ This is a CRUD (Create, Read, Update, Delete) application that manages a table c
 ## Tech Stack
 
 - **Frontend:**
+
   - React with TypeScript
   - Ant Design (ANTD) for the UI components
   - React Query for API data fetching and state management
