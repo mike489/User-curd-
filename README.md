@@ -2,7 +2,7 @@ Certainly! Here's a README.md documentation for your CRUD app:
 
 # CRUD App Documentation
 
-![App Screenshot](app-screenshot.png)
+![App Screenshot](front-end\src\assets\Screenshot user.png)
 
 This is a CRUD (Create, Read, Update, Delete) application that manages a table called 'user,' which includes fields for Name, Email, Password, and Phone Number. The app is structured as a monorepo and utilizes a variety of technologies to facilitate these operations.
 
@@ -50,7 +50,7 @@ To start the frontend application, navigate to the `frontend/` directory and run
 ```bash
 cd frontend/
 npm install
-npm start
+npm run dev
 ```
 
 This will start the React application using the development server.
@@ -62,7 +62,7 @@ To start the backend server, navigate to the `backend/` directory and run:
 ```bash
 cd backend/
 npm install
-npm start
+npm run start:dev
 ```
 
 The Nest.js server will start and expose the API endpoints.
