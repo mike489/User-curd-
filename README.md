@@ -27,7 +27,7 @@ This is a CRUD (Create, Read, Update, Delete) application that manages a table c
 
 - **Backend:**
   - Nest.js for the API
-  - Prisma as the database ORM
+  - Prisma and MongoDB database
 
 ## Project Structure
 
